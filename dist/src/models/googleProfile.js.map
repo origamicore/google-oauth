@@ -1,1 +1,0 @@
-{"version":3,"file":"googleProfile.js","sourceRoot":"","sources":["../../../src/models/googleProfile.ts"],"names":[],"mappings":";;;;;;;;AAAA,4CAA6C;AAE9B,IAAM,kBAAkB,GAAxB,MAAM,kBAAkB;IAanC,YACI,MAWC;QAED,IAAI,MAAM,EACV;YACI,MAAM,CAAC,MAAM,CAAC,IAAI,EAAE,MAAM,CAAC,CAAC;SAC/B;IACL,CAAC;CACJ,CAAA;AAhCoB,kBAAkB;IADtC,IAAA,eAAQ,GAAE;GACU,kBAAkB,CAgCtC;kBAhCoB,kBAAkB"}
