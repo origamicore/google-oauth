@@ -18,7 +18,7 @@ export default class TsOriGoogleOauth implements PackageIndex
     async jsonConfig(config: GoogleOauthConfig): Promise<void> {
         this.config=config; 
         this.oauth2Client = new OAuth2(config.clientId, config.clientSecret, config.redirectUrl);
-        
+        this.redis =new RedisRouter(config.redisContext);
     }
     async start(): Promise<void> {
     }
