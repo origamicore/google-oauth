@@ -1,0 +1,31 @@
+{
+  "name": "@origamicore/google-auth",
+  "version": "0.1.0",
+  "description": "origamicore google auth",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/origamicore/google-oauth.git"
+  },
+  "keywords": [
+    "google",
+    "oauth",
+    "origamicore"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/origamicore/google-oauth/issues"
+  },
+  "homepage": "https://github.com/origamicore/google-oauth#readme",
+  "dependencies": {
+    "@origamicore/core": "^4.0.4",
+    "@origamicore/redis": "^1.0.0",
+    "googleapis": "^123.0.0",
+    "uuid": "^9.0.0"
+  }
+}
