@@ -7,7 +7,7 @@ OrigamiRedis requires [OrigamiCore](https://www.npmjs.com/package/@origamicore/c
 occli -n project-name
 cd project-name
 npm install @origamicore/redis
-npm install @origamicore/semaphore
+npm install @origamicore/google-auth
 ```
 ## Samples
 
